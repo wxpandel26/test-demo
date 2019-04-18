@@ -1,6 +1,7 @@
 <template>
     <div>
         <span>count</span>
+        <span>ttt</span>
         <button @click="handlerClick">count++</button>
     </div>
 </template>
